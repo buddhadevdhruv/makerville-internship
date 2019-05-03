@@ -5,26 +5,30 @@ Made on Windows 10
 functions like del in Makefile will not work in Linux/Mac
 
 replace del with rm
+
 -----------------------
 
 
 sample header file: a.h
 
 calling another .c file from main file: sample.h
+
 -----------------------
 
 
 Makefile has functions:
-
+---------------------
 all: create objects of all files and create executable mkrv.exe
 
 run: to execute program
 
 clean: to delete objects and executables
+
 -----------------------
 
 
 main program:
+---------------
 
 enter string of numbers in format: (num)(space)(num)(space)..
 
