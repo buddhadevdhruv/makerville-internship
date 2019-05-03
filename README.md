@@ -1,5 +1,4 @@
 # makerville-internship
-
 Made on Windows 10
 functions like del in Makefile will not work in Linux/Mac
 replace del with rm
